@@ -36,4 +36,4 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | `git clone <diretorio remoto no github>` | Clona o diretório do github para sua máquina local <br/>Ex: `git clone https://github.com/rogeriorossi/comandos-git.git` |
 | | |
 | `git config user.name "Fulano de Tal"` | Configura o nome em um computador novo. **Só será necessário uma vez** |
-| `git config user.email teste@teste.com` | Configura o email em um computador novo. **Só será necessário uma vez**  |
+| `git config user.email teste@teste.com` | Configura o email em um computador novo. **Só será necessário uma vez** |
